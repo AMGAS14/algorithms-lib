@@ -1,6 +1,8 @@
 # algorithms-lib
-A algorithms library in java
 
+Godel is a very light, modular and super easy to use modern algorithms framework for Java. It contains advanced algorithms that you can apply swiftly with one line of code and was primarily developed to back a worker manager tasks for various Java projects.
+
+Godel was born because other frameworks in Java were very hard to get started with or just plain heavy (overhead wise) or just too opinionated. 
 
 ## Library Description
 
